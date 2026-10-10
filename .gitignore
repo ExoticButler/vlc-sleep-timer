@@ -1,0 +1,2 @@
+# Lua bytecode (VLC can load .luac, but it is a build artifact)
+*.luac
